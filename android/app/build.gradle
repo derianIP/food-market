@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.foodmarket"
+        applicationId "com.derian.foodmarket"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -20,7 +20,7 @@ export const registerReducer = (state = initStateRegister, action) => {
 };
 
 const initSatePhoto = {
-  uri: '',
+ ruri: '',
   type: '',
   name: '',
   isUploadPhoto: false,
